@@ -59,7 +59,7 @@ pkg install git wget python -y
 ```
 Clone the repository
 ```bash
-git clone https://github.com/samay825/InSta-Reseter
+git clone https://github.com/sincryptshark/InSta-ReSeT
 ```
 Go to the InSta-Reseter directory
 ```bash
