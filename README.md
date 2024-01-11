@@ -84,7 +84,7 @@ apt-get install git wget python3 -y
 ```
 Clone the repository
 ```bash
-git clone https://github.com/samay825/InSta-Reseter
+git clone https://github.com/sincryptshark/InSta-ReSeT
 ```
 Go to the InSta-Reseter directory
 ```bash
